@@ -1,0 +1,16 @@
+/* TEAM */
+  Author: Julia Duras
+  Contact: julia [at] duras.org
+  Instagram: https://instagram.com/rozblysk/
+  Twitter: https://twitter.com/rozblysk/
+  Facebook: https://www.facebook.com/rozblysk_enamel/
+  Pinterest: https://www.pinterest.com/rozblysk/
+  Location: Lviv, Ukraine
+
+/* SITE */
+  Name: Rozblysk
+  URL: https://www.rozblysk.com/
+  Language: Ukrainian
+  Doctype:HTML5
+  IDE: Sublime Text
+

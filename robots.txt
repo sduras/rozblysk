@@ -1,0 +1,4 @@
+Sitemap: https://www.rozblysk.com/sitemap.xml
+
+User-Agent: *
+Disallow:
